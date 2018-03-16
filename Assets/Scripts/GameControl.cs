@@ -99,6 +99,6 @@ public class GameControl : MonoBehaviour {
             return;
         }
         score++;
-        scoreText.text = "Score :" + score.ToString();
+        scoreText.text = "S c o r e  :" + score.ToString();
     }
 }

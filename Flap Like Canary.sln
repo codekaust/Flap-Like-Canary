@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flap Like Canary", "Assembly-CSharp-firstpass.csproj", "{19FDE820-8B2B-2C20-0F54-77F160C564D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flap Like Canary", "Assembly-CSharp.csproj", "{2E116178-9A4D-A42C-21D1-B55600EA639C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flap Like Canary", "Assembly-CSharp-Editor-firstpass.csproj", "{1D284CE3-FA3E-095D-7D2F-2D6F8C15E877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FDE820-8B2B-2C20-0F54-77F160C564D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FDE820-8B2B-2C20-0F54-77F160C564D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FDE820-8B2B-2C20-0F54-77F160C564D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FDE820-8B2B-2C20-0F54-77F160C564D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E116178-9A4D-A42C-21D1-B55600EA639C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E116178-9A4D-A42C-21D1-B55600EA639C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E116178-9A4D-A42C-21D1-B55600EA639C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E116178-9A4D-A42C-21D1-B55600EA639C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D284CE3-FA3E-095D-7D2F-2D6F8C15E877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D284CE3-FA3E-095D-7D2F-2D6F8C15E877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D284CE3-FA3E-095D-7D2F-2D6F8C15E877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D284CE3-FA3E-095D-7D2F-2D6F8C15E877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
